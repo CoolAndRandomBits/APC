@@ -1,0 +1,1 @@
+Simple (and insecure) script for checking whether RADIUS authentication worked on APC UPS

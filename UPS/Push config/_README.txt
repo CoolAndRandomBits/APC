@@ -1,0 +1,1 @@
+Simple (and insecure) script for pushing configuration to APC UPS
